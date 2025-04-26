@@ -30,8 +30,8 @@ RegisterNumber:  212223040161
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/d5182506-f36d-45e0-a535-8b0531bd3bbc)
 
-![Uploading image.png…]()
 
 
 ## Result:
